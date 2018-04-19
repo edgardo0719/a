@@ -1,0 +1,31 @@
+Curso de fotografía
+Crear una base de datos que contendrá la información de un curso de fotografía, que contara con 2 niveles, 
+básico y avanzado, cada nivel tendrá una temática y cada una será evaluada por separado.
+Contará con un docente con los siguientes datos: nombre, estudios,
+ número de contacto y correo electrónico y unos estudiantes que contara  con la siguiente información:
+ nombre, numero de contacto, correo electrónico y nivel que quiere cursar.
+
+El nivel básico se impartirá los siguientes temas
+-historia de la fotografía: concepto
+-Partes de la cámara. Todas las partes
+-planos: todos los planos 
+-cuidados básicos para la cámara: enseñar sobre lo basico
+-teoría del color: entender la composición de los colores
+-movimientos de cámara: practica con la camara y correciones
+-Teoría de la imagen: historia y cambios
+-trabajo final: producto final de las fotos de cada integrante
+
+El nivel avanzado se impartirá los siguientes temas
+-Leyes de la fotografía: encuadre 
+-macro fotografía
+-Iluminación 
+-Fotografía comercial y publicitaria
+-retoque y edición
+-trabajo final
+ Se manejara una galería de fotos en la que se tendrá en cuenta los trabajos finales de cada uno de los integrantes del curso, uno para básicos y otro para avanzado, también cada imagen tendrá una escala del 1 a 5 para calificarla y en cada periodo de duración del curso se mostrara la ganadora en puntuación 
+Se manejara unos comentarios en los que se podrá dar una pequeña opinión con respecto a la foto.
+
+Integrantes 
+Edgardo Núñez Ortiz
+Antonio Durango
+Iván Guerrero
