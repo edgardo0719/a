@@ -1,0 +1,392 @@
+Nivel básico del curso de fotografía
+Objetivo general: desarrollar un criterio básico y solido de lo primordial de los conceptos que se necesitan para aprender de la fotografía y de cómo tomar una buena foto.
+Objetivos específicos:
+-Explicar de manera detallado todos los conceptos del nivel básico del curso de fotografía.
+-
+-Mostrar un resultado óptimo en el que se pueda evidenciar todo lo aprendido en el nivel básico de curso de fotografía.
+-HISTORIA DE LA FOTOGRAFÍA:
+Antecedentes
+La historia de la fotografía empieza oficialmente en el año 1839, con la divulgación mundial del primer procedimiento fotográfico: el daguerrotipo.1
+Como antecedentes de la fotografía, se encuentran la cámara oscura y las investigaciones sobre las sustancias fotosensibles, especialmente el ennegrecimiento de las sales de plata. Ibn al-Haytham (Alhazen) (965 a 1040) llevó varios experimentos sobre la cámara oscura y la cámara estenopeica.2
+Cronología
+1521 La primera publicación sobre la cámara oscura es la de Cesare Cesarino, un alumno de Leonardo Da Vinci durante el Renacimiento. Por su parte, el científico Georgius Fabricus experimentaba ya con las sales de plata, notando algunas de sus propiedades fotosensibles.
+1558, Giovanni Battista della Porta, por sus publicaciones sobre el funcionamiento de la cámara oscura, se hizo popular entre los pintores de la época. Gerolamo Cardano sugiere una importante mejora: un lente en la apertura de la cámara, anteriormente un simple orificio o estenopo.
+1600, durante el siglo XVII, la cámara que hasta ese momento era una habitación se transforma en un instrumento portátil de madera. Johann Zahn transformó esa caja en un aparato parecido al usado en los principios de la fotografía.
+En este siglo los científicos continuaban experimentando con sales de plata, notando cómo se oscurecían con la acción del aire y del Sol, sin saber que era la luz la que les hacía reaccionar, hasta que científicos como el sueco Carl Wilhelm Scheele y el suizo Jean Senebier revelaron que las sales reaccionaban con la acción de la luz.
+1685, de acuerdo a tratados publicados por Zahn, la cámara ya estaba lista para la fotografía; pero todavía no se podían fijar las imágenes.
+1777, el sueco Carl Wilhelm Scheele publica su tratado sobre las sales de plata y la acción de la luz, en latín y alemán; en 1780 en inglés, y un año más tarde en francés. En el estilo de las pinturas de artistas exitosos de este siglo como Canaletto parece evidente el uso como herramienta de la cámara oscura. Una cámara de este tipo que tiene grabado el nombre de Canaletto, se conserva en Venecia, aunque no está confirmado que efectivamente perteneciera al artista.
+Artistas que comercializaban con éxito retratos, como el de Maximilien Robespierre, hacían uso de todo tipo de instrumentos para lograr trabajos casi perfectos. La silueta, un invento derivado del teatro de sombras chinas, se empezó a usar en Francia a mediados del siglo XVIII, como método rápido, económico y automático para hacer retratos de la creciente clientela burguesa que no podía pagar los retratos tradicionales pintados, ni las miniaturas que por esa época estaban de moda entre la nobleza. La silueta era un retrato de perfil, que se hacía copiando el perímetro de la sombra de una persona sobre un papel negro, que luego se recortaba con muchísimo cuidado, para montarse finalmente en otro papel blanco.
+En esa misma línea evolutiva, sobre fines del siglo XVIII aparece el fisionotrazo para hacer perfiles, inventado por Gilles Louis Chretien. Estos inventos han sido denominados por Gisèle Freund como "precursores ideológicos" de la fotografía,3 en tanto representan los esfuerzos de muchos investigadores y artistas de Europa sobre fines del siglo XVIII y principios del XIX, de dar respuesta a una necesidad social en la burguesía ascendente: tener una forma de representación objetiva, mecánica, económica y rápida. El retrato de personas fue, desde entonces, el principal motor de las innovaciones técnicas que la fotografía incorporó durante todo el siglo XIX.
+1801, pocos años antes de su muerte, el inglés Thomas Wedgwood hizo nuevos descubrimientos para capturar imágenes, sin lograr fijarlas adecuadamente.
+Inicios
+A principios del siglo XIX, en el año 1824, el científico francés Nicéphore Niepce obtuvo unas primeras imágenes fotográficas, inéditas. La fotografía más antigua que se conserva es una reproducción de la imagen conocida como Vista desde la ventana en Le Gras, obtenida en 1826 con la utilización de una cámara oscura y una placa de peltre recubierta en betún.
+Cuando Niepce comenzó sus investigaciones necesitaba un poco más de ocho horas de exposición, a plena luz del día, para obtener sus imágenes. En 1827, Niepce entra en contacto con Daguerre, quien se interesa por su invento e insiste en un acuerdo de trabajo para que le revele su procedimiento, el cual logra firmar con Niepce poco antes de su muerte en 1833. Desde entonces, Daguerre continúa sus experimentaciones, regresando al uso de las sales de plata que habían sido desestimadas por Niépce, y en 1839 hace público -con apoyo del Estado Francés y gran despliegue mediático-, su proceso para la obtención de fotografías sobre una superficie de plata pulida, a la que denominó daguerrotipo. Resolvía algunos problemas técnicos del procedimiento inicial de Niepce y reducía los tiempos necesarios de exposición, para hacerlo más adecuado a los fines del retrato de personas.
+Casi al mismo tiempo Hércules Florence, Hippolythe Bayard y William Fox Talbot desarrollaron otros métodos diferentes, sin conocerse entre sí. El procedimiento creado por Fox Talbot obtenía negativos sobre un soporte de papel, y a partir de esos negativos reproducía copias positivas, también en papel. El procedimiento negativo-positivo de Talbot se llamó calotipo o talbotipo.
+Inicialmente el daguerrotipo era mucho más popular, ya que era muy útil para obtener retratos, y su calidad de imagen era muy superior al calotipo. Estos "retratos al daguerrotipo" empezaron a divulgarse entre la clase burguesa de la Revolución industrial, por ser mucho más baratos que los pintados, lo que dio un gran impulso a esta nueva técnica.
+
+
+
+
+-Innovaciones técnicas y científicas
+Para captar las imágenes se empleó la cámara oscura que experimentó constantes mejoras en su diseño y tamaño, así como en las lentes ópticas u objetivos utilizados, debido a las aportaciones de diferentes investigadores.
+Los procedimientos fotográficos utilizados durante el siglo XIX fueron muy diversos, empezando por el daguerrotipo, y el calotipo. A partir de 1855 triunfó el sistema de los negativos de colodión húmedo, que permitían positivar muchas copias en papel a la albúmina, con gran nitidez y amplia gama de tonos. Estas copias a la albúmina fueron el tipo de papel fotográfico más empleado en la segunda mitad del siglo XIX. Todos estos sistemas se basaban en procesos artesanales, y requerían destrezas manuales significativas por parte de los fotógrafos, así como conocimientos prácticos de química y física
+Después de 1880 se desarrollaron las nuevas placas secas al gelatino-bromuro, que podían ser producidas de modo industrial y comercializadas sin limitaciones. Los fotógrafos compraban cajas de placas vírgenes, ya sensibilizadas, listas para cargar en chasis y ser expuestas en la cámara. También eran placas de vidrio; pero pronto empezó a usarse el soporte flexible de película de nitrato.
+Tampoco deben olvidarse las aportaciones de George Eastman y la casa Kodak, que permiten concluir el camino hacia la instantánea fotográfica. A partir de 1888, Kodak sacó al mercado una cámara que utilizaba carretes de película enrollable, en lugar de placas planas. El sistema inventado por Kodak se complementaba además con el revelado de las tomas luego de expuestas, y la carga de la cámara con nueva película. Bajo el concepto "Ud. aprieta el botón, nosotros hacemos el resto", Kodak inauguraba la fotografía de aficionados.
+
+Procedimientos fotográficos utilizados durante el siglo XIX:
+-Daguerrotipo
+-Calotipo
+-Sistema Crozat, inventado por los fotográfos españoles Crozat en 1862.
+-En 1851 se inventa el colodión húmedo, que reemplazó casi inmediatamente a las demás técnicas, por las mejoras introducidas en los tiempos de exposición. Con el colodión húmedo se habla por primera vez de "instantánea" fotográfica.
+-En 1854 se patentó la ambrotipia, un proceso fotográfico que crea una imagen positiva en una placa de cristal, mediante el proceso del colodión húmedo, es una patente de James Ambrose Cutting quien utilizó el colodión húmedo para obtener una imagen positiva en lugar de un negativo. Una variante de los ambrotipos son los ferrotipos, realizados sobre una base metálica de hierro.
+-Charles E. Bennett en 1878 inventa las placas secas al gelatino-bromuro que permitían positivar muchas copias en papel a la albúmina.
+-Desde 1888, Kodak fabrica carretes de película enrollable.
+-En el campo de las investigaciones científicas efectuadas con la utilización de la fotografía pueden resaltarse los estudios sobre locomoción humana y animal de Étienne Jules Marey y Edward Muybridge. Así, muy interesante fue poder averiguar la secuencia de movimientos de las patas de un caballo al galope, que era un tema de amplio debate entre los pintores de la época
+Fotografía en color
+La fotografía en color fue experimentada durante el siglo XIX, pero no tuvo aplicaciones comerciales, por su dificultad e imperfección. Los experimentos iniciales no fueron capaces de conseguir que los colores quedaran fijados en la fotografía. La primera fotografía en color fue obtenida por el físico James Clerk Maxwell en 1861, realizando tres fotografías sucesivas, con la lente con un filtro diferente: rojo, verde y azul. Cada una de las tres imágenes se proyectaba sobre la misma pantalla con la luz del color del filtro que se había empleado para tomarla.
+A lo largo del siglo XIX, y principios del XX, algunas fotografías se coloreaban a mano, con acuarelas, óleo, anilinas, u otros pigmentos. Pero este coloreado manual era artístico y no técnicamente fotográfico. Ya en la época del daguerrotipo se empezaron a colorear los retratos, pagando un suplemento. En algunos países, como Japón, se coloreaban la mayoría de las copias a la albúmina para su venta a extranjeros, especialmente los retratos de tipos populares y las vistas de paisajes y ciudades. Kusakabe Kimbei destacó en el coloreado de fotografías, realizando verdaderas obras maestras, hasta el año 1912.
+La auténtica primera placa fotográfica en color, conocida comercialmente como Autochrome, fue patentada en diciembre de 1903 por los hermanos Lumière,4 pero no llegó a los mercados hasta 1907. Esas placas autocromas se fabricaban en Francia, y eran transparencias o diapositivas en soporte de vidrio. El sistema se basaba en una rejilla con puntos, cada uno de los tres colores elementales, como las pantallas de TV en color, que se ponía sobre una placa fotográfica en blanco y negro, al revelarla, la intensidad de luz correspondía a la del color de cada punto, formándose una imagen en colores. El procedimiento: 'Cibachrome', puesto a la venta en el último cuarto del siglo XX, se basaba en la misma idea. Fueron utilizadas especialmente por fotógrafos aficionados de todo el mundo. La mayor colección de placas autocromas se conserva en el Museo Albert-Kahn.5
+La primera película fotográfica en color moderna, Kodachrome, fue utilizada por primera vez en 1935, y dejó de fabricarse en 2009. Eran diapositivas en color, producidas y reveladas por la compañía Eastman Kodak. Las demás películas modernas se han basado en la tecnología desarrollada por Agfacolor en 1936.
+
+
+
+
+
+La fotografía en las artes visuales
+La discusión acerca del estatus artístico de las fotografías se inaugura desde su invención. Sin embargo, durante el siglo XIX serán sólo intentos aislados los que se animen a desafiar el lugar que la institución artística ha destinado para la fotografía: el de auxiliar científico a la observación de la realidad, sin ninguna posibilidad de aspirar a la categoría de obra de arte en cuanto se consideraba que era la máquina la que hacía todo el trabajo.
+Pictorialismo
+La primera iniciativa organizada de fotografía artística surge en 1890 en Europa. Un grupo de fotógrafos crea técnicas de manipulación en la toma y en el positivado, y propone que el resultante de su uso es una obra de arte fotográfico, en cuanto requieren de manipulación por parte del autor y generan obras únicas: dos de los puntos discutidos por parte de los pintores para negar la artisticidad de la fotografía. Algunos autores pictorialistas son: Peter Henry Emerson, Robert Demachy, Henry Peach Robinson, Comandante Puyo. Los pictorialistas reconocen influencias y antecedentes en la fotografía academicista de Oscar Gustav Rejlander y en la obra de Julia Margaret Cameron, ambas de la década del 60 del siglo XIX. La fotografía pictorialista también se conoce como fotografía impresionista por la similitud formal y temática con esta corriente de la pintura moderna.
+
+Fotografía en el siglo XX: desde 1900 hasta la Segunda Guerra Mundial
+La aproximación a este período histórico de la fotografía nos lleva ineludiblemente al análisis del periodismo fotográfico, la relación de las vanguardias históricas y la fotografía y a una exposición de los diferentes realismos fotográficos que se desarrollan en estos años.
+El periodismo fotográfico es el que nos da a conocer por medio de una foto lo que pasa en un lugar. Estas visualizaciones contienen mucha información, y permiten representarnos de un modo detallado -aunque siempre con limitaciones, como toda representación- lo que ha pasado en ese lugar y momento específico.
+La posibilidad de imprimir fotografías junto al texto en periódicos y revistas fue investigada durante el siglo XIX mediante diferentes posibilidades, como la litografía o la xilografía. En 1880 se inventó la técnica de impresión en medios tonos, que es la antecesora de los actuales procedimientos de ófset y fotocromía. Sin embargo, el fotoperiodismo también se enfrentaba a problemas técnicos en la toma fotográfica, ya que las emulsiones aún tenían sensibilidades muy bajas, por lo que tomar fotos en interiores o de noche se limitaba al uso irreemplazable del flash (de magnesio, en aquel entonces), cuyo funcionamiento tornaba indisimulable la presencia del fotógrafo. Sumado a esta dificultad, las cámaras de gran formato y la frecuente necesidad de usar trípode hacían que los fotoperiodistas estuvieran muy limitados en sus posibilidades de trabajar una suerte de "discurso fotográfico documental".
+
+
+El primer fotógrafo que logró superar estas limitaciones fue Erich Salomon en Alemania, a partir de 1925. Salomon creó un estilo fotográfico documental conocido como "foto live" o fotografía cándida. Sus fotos se caracterizan por mostrar a los sujetos espontáneamente, sin pose ni arreglo, muchas veces sorprendidos por el fotógrafo, al estilo de los paparazzi.
+A partir de entonces se inicia la época de las revistas ilustradas, como la francesa Vu, desde 1928, dirigida por Lucien Vogel y la estadounidense Life, a cargo de Henry Luce, desde 1936. Hasta la década de 1970 serán los soportes principales de publicación para los fotodocumentalistas, y luego irán perdiendo protagonismo frente a la televisión.
+
+La fotografía a partir de 1945
+Todos los géneros fotográficos surgidos en momentos históricos anteriores tienen su continuación tras la finalización de la Segunda Guerra Mundial. Especial relevancia presenta la evolución en estos años del periodismo fotográfico, en el ámbito de la fotografía documental y los nuevos diálogos que se establecen entre la fotografía y las artes plásticas, que comienzan a fundirse en la denominación genérica de artes visuales.
+Asistimos, igualmente a la aparición de otros usos de la fotografía en este período, así como al desarrollo de nuevas visiones de la fotografía de paisaje y del empleo masivo de la fotografía en color, gracias a la obra de William Eggleston, entre otros autores.
+En estos años merecen especial mención las obras de Robert Doisneau, W. Eugene Smith, Robert Frank, Diane Arbus, entre muchos otros.
+
+Cronología
+1947 Se funda la Agencia Magnum: una cooperativa de fotógrafos preocupados por la manipulación de la información fotográfica en los medios de prensa, que se autoorganiza para controlar los temas a cubrir, y la edición fotográfica a la hora de su publicación.
+1950, nuevos procedimientos industriales permiten incrementar enormemente la velocidad y la sensibilidad a la luz de las películas en color y en blanco y negro. La velocidad de éstas últimas se elevó desde un máximo de 100 ISO hasta otro teórico de 5000 ISO, mientras que en las de color se multiplicó por diez.
+1960, que los primeros VTR (video tape recorder) que en 1951, ya eran capaces de capturar imágenes de televisión, convertirlas en una señal eléctrica y guardarlas en soportes magnéticos) son utilizados por la NASA, para captar las primeras fotografías electrónicas de Marte.
+1969, es considerado el inicio de la carrera digital. Willard Boyle y George Smith diseñan la estructura básica del primer CCD (acrónimo de Charge Couple Device ó Dispositivo de Carga Acoplada). Este dispositivo CCD planteado como un sistema para el almacenamiento de información es utilizado un año más tarde, por los laboratorios Bell como sistema para capturar imágenes al construir la primera videocámara.
+La fotografía en el siglo XXI: digitalización
+A finales del siglo XX aparece un nuevo tipo de tecnología en los medios audiovisuales que supone un cambio de rumbo en la forma de utilizarlos. La aparición de la primera cámara digital en 1990 constituye la base de la creación inmediata de imágenes. A pesar de que en sus orígenes el precio de estas cámaras era elevado y las hacía inaccesibles para muchos, con el tiempo no sólo han bajado de precio sino que han aumentado su calidad técnica. La digitalización ha liberado a la fotografía del carácter documental histórico ya que la manipulación de imágenes a través de la infografía ha permitido recuperar el imaginario pictórico y narrativo que se había perdido de la cultura visual como consecuencia de la aparición de la cámara.
+"La fotografía digital entronca con la ideología del collage entendido como fotomontaje de vanguardia dadaísta o constructivista, que mostraba el recorte y el carácter fragmentario de su construcción sin pretender engañar a nadie. No obstante, la fotografía digital consigue eliminar las marcas del proceso de construcción del "collage" y dotar al fotomontaje de carácter unitario".6
+Desde su invención, la fotografía tenía total credibilidad como testimonio incuestionable de la realidad debido al funcionamiento del dispositivo de captura. Posteriormente, la manera de registrar la realidad se ha considerado un posicionamiento ideológico, que nada tiene que ver con el carácter neutral y objetivo de su funcionamiento.
+Las nuevas tecnologías digitales tienen la capacidad de convertir lo real e intervenir sobre el registro de la imagen, hasta el punto de manipular y distorsionar las imágenes sin perder el realismo fotográfico con el que fueron captadas.
+La digitalización desposee a la fotografía de su carácter objetivo y rompe la conexión física entre el referente y la impresión fotosensible, es decir, entre la experiencia perceptiva de la realidad por observación directa y la imagen mediada a través de una tecnología. Con la pérdida de objetividad de la imagen fotográfica, a comienzos de la década de los noventa, se empieza a hablar de la era post-fotográfica, en la que se supera el paradigma fotográfico como modelo de realismo. Lo real y lo virtual se mezclan dando lugar a un nuevo tipo de imagen híbrida para definir las nuevas creaciones pseudo-fotográficas. Los programas de manipulación de la imagen son protagonistas en esta etapa, así como el retoque fotográfico, la fusión de imágenes, la infografía o la generación de tridimensionalidad, holografía.
+
+
+
+
+
+
+
+
+-Partes de la cámara. 
+Si bien el mercado actual ofrece gran diversidad de cámaras fotográficas con distintos formatos y prestaciones, y a pesar de que la cámara fotográfica desde sus orígenes ha variado mucho en su evolución con el paso de los años, hay elementos que se mantienen invariables desde su descubrimiento y sin los cuales no podría entenderse la fotografía actual.
+Tanto una compacta y sencilla cámara antigua como la cámara réflex más sofisticada, las reglas que rigen su funcionamiento y los principios generales de funcionamiento son similares. Las partes básicas de la cámara fotográfica son:
+Cuerpo
+El cuerpo es una caja o estuche hermético que no permite el paso de la luz, que contiene todos los elementos que componen la cámara fotográfica. El cuerpo es la parte que más cambios evolutivos ha sufrido a través del correr de los años, y es el que determina la forma o presentación de la misma.
+El cuerpo de la cámara fue fabricado desde sus orígenes en distintos materiales y formas pasando del plástico a la madera y al aluminio, presentando infinidad de tamaños. El peso y facilidad de manipulación determinan, en la actualidad, la calidad de la cámara. En las cámaras de fotos reflexs el cuerpo de la cámara está unido al objetivo o lente a través de un sistema de bayoneta.
+Visor
+El visor es el lugar por el cual se ve la imagen elegida para fotografiar, es decir que es la parte de la cámara que permite enfocar y encuadrar la imagen. El visor es una especie de ventana cuyo fin es previsualizar la fotografía instantes antes de accionar el disparador, con el fin de determinar la perspectiva, la composición, el escuadre y el campo visual que abarca la imagen a fotografiar.
+Las cámaras analógicas pueden estar compuestas de un visor óptico o de un visor réflex. Existen varios tipos de visores:
+Visor óptico
+El visor óptico directo es un tipo de visor independiente del objetivo, cuyo funcionamiento está basado en el uso de varias lentes con el fin de producir una imagen de la escena que está situada delante de la cámara. Los visores ópticos están normalmente colocados por encima del objetivo, y su hándicap es importante.
+Tradicionalmente el visor óptico es un tipo de visor que se ha utilizado mucho en las cámaras compactas, aunque en la actualidad se utiliza cada vez menos ya que es sustituido por visores electrónicos o por cámaras sin visor que utilizan la pantalla LCD.
+
+
+
+ 
+Visor réflex
+El visor réflex es un tipo de visor caracterizado por la utilización de un juego de espejos llamado pentaprisma, cuyo fin es mostrar la imagen que proyecta el objetivo. De esta manera, la escena que se visualiza a través del visor es coincidente con la que será captada en la fotografía.
+Habitualmente el visor réflex incluye una o más pantallas suplementarias (de LCD) que rodean a la imagen. Dichas pantallas permiten mostrar información tal como velocidad de obturación, nivel de exposición, apertura del diafragma, sensibilidad ISO, estado de la batería y el número de disparos que pueden tomarse en una ráfaga.
+Visor electrónico
+Los visores electrónicos están compuestos básicamente por una pantalla pequeña LCD que muestra la imagen que llega al sensor en tiempo real. Adicionalmente, también puede mostrar otro tipo de información como los valores de exposición o el histograma.
+El visor electrónico es un tipo de visor muy utilizado en las cámaras compactas de objetivos intercambiables, como así también en algunas cámaras compactas de alta gama. Es muy frecuente encontrar en la actualidad cámaras compactas sin visor, que utilizan pantallas LCD traseras para previsualizar y encuadrar la imagen.
+Objetivo o lente
+El objetivo es una de las partes más importantes de la cámara fotográfica. El objetivo es un sistema óptico que está formado por un conjunto de lentes que tienen la función de dar forma a la imagen que va a ser capturada y registrada por el sensor. En las cámaras compactas, el objetivo no puede ser separado del cuerpo de la misma. El objetivo tiene características fundamentales:
+La longitud focal (distancia focal): se expresa en milímetros y es la distancia que determina el ángulo de cobertura y también el factor de ampliación del objetivo.
+El ángulo de cobertura: es el campo visual abarcado por la capacidad del objetivo, es decir la amplitud de la escena que se puede proyectar en el plano focal. Cuanto menor sea la longitud focal del objetivo, mayor será su ángulo de cobertura. Por ejemplo si un objetivo es de 35 mm, tendrá mayor ángulo de cobertura que otro de 85 mm. Según el ángulo de cobertura los objetivos pueden clasificarse en: normales (cuando el ángulo de cobertura es similar a la visión humana, es decir en torno a los 45° ), angulares (tienen un ángulo mayor a la visibilidad humana, rondando el campo visual entre los 60° y 90° ) y teleobjetivos (el ángulo de cobertura es menor al normal, habitualmente entre 8° y 28°).
+Existen ángulos de cobertura de hasta 180°, llamados ojos de pez por su objetivo angular.
+El efecto que la longitud focal causa sobre el ángulo de cobertura depende del tamaño del sensor. Sin embargo, la popularidad que adquirieron las cámaras réflex full-frame que tienen un sensor con el mismo tamaño que el negativo de 35 mm, hace que la distancia focal de ese formato sea utilizada como referente en cámaras cuyos sensores son más pequeños. De esa manera, no es indicada la distancia focal real en los objetivos de las cámaras compactas, sino que suele indicarse la distancia focal equivalente al formato 35 mm.
+Existen algunos objetivos cuya longitud focal es variable. Dichos objetivos son conocidos con el nombre de Zoom, los que disponen de algún tipo de mecanismo que permite cambiar gradualmente la longitud focal.
+Disparador
+El disparador es un mecanismo que abre el obturador exponiéndolo a la luz, y acciona el funcionamiento de la cámara. El disparador permite la entrada de luz a través del objetivo para captar la imagen que seleccionó el ojo visor.
+Sensor
+El sensor es la parte de la cámara fotográfica cuya función es transformar la imagen óptica que fue creada por el objetivo, en una serie de señales de tipo eléctrico que dará lugar a la imagen digital. El sensor está conformado por una matriz de millones de celdas diminutas llamadas fotositos.
+Cada una de estas celdas contienen en su interior un fotodiodo, que es un elemento electrónico muy sensible a la luz. Cada fotodiodo, durante la exposición, convierte los fotones (energía presente en la luz) en corriente eléctrica (electrones). De esta manera, la intensidad lumínica que reciben los fotositos determina la menor o mayor carga eléctrica de almacenamiento.
+Los fotositos tienen un valor de carga acumulado muy pequeño, el cual antes de su digitalización debe ser ampliado. De esta función se encargan los amplificadores PGA (Programmable Gain Amplificator), que aumentan la tensión de salida exterior del sensor. El nivel de amplificación dependerá de la sensibilidad ISO que es seleccionada por la cámara. A mayor sensibilidad ISO, mayor deberá ser la amplificación de la señal.
+Luego de amplificar la señal se cuantifica su valor a través de un convertidor analógico-digital. Dicho valor es el indicador del nivel de brillo capturado por los fotositos. Una vez finalizada la digitalización de la señal, las coordenadas en el sensor, el nivel de brillo de cada uno de los fotositos y otros datos adjuntos, se almacenan en forma de imagen RAW, constituyendo el negativo digital de la fotografía.
+Diafragma
+El diafragma es un dispositivo ubicado en el interior del objetivo, cuya función es graduar la intensidad de la luz que le llegará al sensor. El diafragma está formado por un conjunto de pequeñas láminas metálicas que se mueven en forma radial para cerrar o abrir un orificio cuyo tamaño es ajustable.
+El tamaño de apertura del diafragma debe medirse utilizando una escala de apertura relativa, que utiliza una magnitud llamada número f, que permite clasificar las distintas aperturas. Dicha escala de números f es una escala universal, utilizada por todos los fabricantes de objetivos y cámaras. Cuanto menor sea el número f, mayor será la apertura del diafragma, es decir mayor será la cantidad de luz que llegue al sensor.
+El f/1 indica el diafragma más abierto y el f/32 el más cerrado.
+Cada paso del diafragma dejará pasar al sensor la mitad de luz o el doble que el anterior, según lo cerremos o abramos. El sistema tiene la ventaja de dejar pasar exactamente la misma cantidad de luz en todos los objetivos, independientemente de su distancia focal.
+Anillo de enfoque
+El anillo de enfoque puede ser automático o manual, y es el elemento que permite regular la distancia entre la película y el objetivo, moviendo el objetivo hacia adelante y hacia atrás. La función es lograr una imagen bien enfocada y nítida.
+Obturador
+El obturador es un dispositivo cuya función nos permite controlar la cantidad de tiempo que estará expuesto el sensor a la acción de la luz. En forma semejante al diafragma, el obturador regula la luz. A diferencia del diafragma, el obturador controla no la intensidad sino el tiempo de exposición a la luz. Actualmente el más utilizado es el obturador de plano focal, que está ubicado en el interior del cuerpo de la cámara, exactamente delante del sensor.
+El obturador está conformado por dos cortinillas compuestas de una aleación ultraligera, y sus movimientos son controlados por la parte electrónica de la cámara. Al momento de accionar el disparador, la primera cortinilla se desplaza hacia otro extremo del sensor para dejar pasar la luz (o se enrolla). Transcurrido el tiempo de exposición, la segunda cortinilla se ocupa de cubrir nuevamente la zona (o se desenrolla).
+La velocidad de obturación es el tiempo que el sensor está expuesto a la acción de la luz, velocidad que se mide en segundos (si la velocidad de obturación es muy lenta) o en fracciones de segundos. La velocidad de obturación es el tiempo que la luz tarda en llegar a la película, tiempo que es medido en todas las cámaras a través de un indicador de velocidades.
+Pantalla
+La pantalla es la parte que permite enfocar y proyectar la imagen. Sus principales características son el tamaño y la resolución. El tamaño se mide en pulgadas y se refiere a las dimensiones físicas. Actualmente las cámaras proponen modelos con pantallas LCD cuyos tamaños son aproximadamente de 3 pulgadas.
+La resolución es la que indica la cantidad de pixeles que permite mostrar la pantalla, los cuales se calculan multiplicando los pixeles de alto por los de ancho. Cuanto mayor sea la resolución, mejor será la visualización de imágenes a través de la pantalla. Las cámaras réflex tienen actualmente una resolución de pantalla que ronda alrededor del millón de píxeles.
+Las cámaras digitales poseen una pantalla en la parte posterior, que tiene tres funciones principales:
+Previsualizar la imagen a fotografiar antes del disparo. Las cámaras compactas que no disponen de visor utilizan la ayuda de la pantalla para realizar la acción de enfocar y encuadrar. Las cámaras réflex actualmente en su mayoría permiten previsualizar las imágenes antes de accionar el disparador, con el modo de funcionamiento llamado live view.
+Mostrar la imagen una vez efectuada la fotografía a través de la pantalla. Inmediatamente luego del disparo se pueden revisar las imágenes con la posibilidad adicional de hacer zoom sobre alguna parte específica de la imagen, mostrar el histograma como así también mostrar avisos de sobreexposición.
+Acceder a otros menús de configuración de la cámara con el fin de cambiar la configuración general o los parámetros con los cuales se tomarán las futuras fotografías.
+Botones de control
+Los diales y botones de control permiten configurar la cámara fotográfica y los parámetros de tomas de fotografías. La cantidad y funciones de los botones de control dependen de los fabricantes y de la complejidad del equipo. Las cámaras más básicas son las compactas, que disponen de pocos diales y botones de control. Por esa razón la mayoría de sus funciones son manipuladas a través del menú.
+Las cámaras réflex, en cambio, son más avanzadas y disponen de diferentes diales de control y botones que cumplen la función específica de configurar en forma directa los parámetros de la toma sin tener que acceder al menú de la cámara. Si bien hay una amplia variedad de diales y botones, los más comunes son:
+Botón de encendido-apagado.
+Botón de disparo (sirve para enfocar y ejecutar la fotografía)
+Botón de acceso al menú (para utilizar las funciones de la cámara)
+Dial de modo de funcionamiento (permite seleccionar si la cámara funcionará en modo automático o en forma manual, con prioridad de apertura, con prioridad de velocidad según las funciones disponibles)
+Dial principal (permite cambiar valores como la apertura del diafragma, la velocidad de obturación o la sensibilidad ISO)
+Botón de reproducción (permite acceder a la visualización de las fotografías realizadas)
+-cuidados básicos para la cámara: 
+¿Cómo debemos guardar la cámara?
+
+Lo primero de todo es guardar la cámara mientras no la utilizamos y una de las mejores formas es utilizar una bolsa o mochila especialmente diseñada para cámaras ya que evitará la humedad y la posible suciedad que pueda entrar en alguna parte de éstas. Además de conseguir esto, también nos ayudará a transportarla más fácilmente, sobre todo si tenemos que andar grandes distancias ya que así evitamos que la cámara o los objetivos estén sueltos y puedan dañarse.
+
+Por otra parte, es altamente recomendable utilizar correas, ya sea en el cuello o en nuestra muñeca, a la hora de tomar fotografías. De esta forma evitaremos que se caiga, el peor problema que puede sucederle a una cámara. Eso sí, tendremos que evitar que ésta “baile” excesivamente y pueda golpearse con algún objeto de nuestro alrededor.
+
+Las baterías, un componente fundamental
+
+Aunque muchos usuarios no las tengan en cuenta, las baterías también deben ser cuidadas. Para ello lo mejor es guardarlas en alguna funda (en el caso de segundas baterías, claro), sobre todo si la cámara no va a ser encendida en un largo periodo de tiempo. Lo demás, es bastante obvio y coincide con los cuidados de la batería de un smartphone: evitar golpes y temperaturas extremas, ya sean bajas o altas, ya que harán mal funcionar el dispositivo.
+
+Al cambiar el objetivo, cuidado con la posición de la réflex
+Algunos recién iniciados realmente no saben cómo deben cambiar un objetivo (o incorporar el que viene con la propia cámara). Debemos tener en cuenta que debemos realizar el montaje o cambio en un entorno con el menor polvo ambiental posible y con el cuerpo de la cámara mirando hacia abajo –o, al menos, inclinado hacia abajo- de forma que evitemos que caigan motas de polvo o suciedad en el sensor. Además, trataremos de tenerlo descubierto el menor tiempo posible ya que el cambio debe ser preciso y rápido, aunque eso sí, evitaremos las “prisas” pues podemos dañar algún engranaje o golpear el sensor fuertemente, provocando problemas que podrían costar cientos de euros arreglar.
+
+ Cuidados básicos y limpieza de una cámara réflex
+Limpieza del cuerpo interno de una réflex
+
+¿Quieres saber si tu réflex necesita una limpieza interna? Lo más fácil para comprobarlo es utilizar un número f alto (es decir, cerrar el diafragma lo máximo posible) y hacer una foto a una textura plana, como el cielo o una pared. En el caso de que el sensor esté sucio en la fotografía aparecerán algunas manchas que oscurecen la toma, signo de que debemos limpiarla.
+
+Como ya sabemos, la óptica del interior de la cámara es muy delicada, por lo que debemos tener un especial cuidado aunque en realidad el proceso es muy sencillo –aunque si no estás del todo seguro, lo mejor es acudir a un especialista para que realice el procedimiento correctamente-. Los pasos son los siguientes:
+
+1) Retirar el objetivo y poner la tapa: Esta tapa viene con la propia réflex y está diseñada para poder llevar el cuerpo sin objetivo.
+
+2) Activar el modo limpieza del sensor: Todas las cámaras cuentan en su menú con una opción similar a “Limpieza del sensor”, lo que bloqueará el mecanismo interior para facilitar el acceso y sobre todo su limpieza, evitando que entre aún más polvo.
+
+3) Retirar la tapa y comenzar con el soplado: Apuntaremos la cámara hacia el suelo y retiraremos la tapa para comenzar a soplar. Obviamente no se trata de soplar con nuestra boca sino de utilizar una herramienta especial, como una pera limpiadora que podemos encontrar en cualquier tienda online como Amazon por un módico precio. Ésta nos ayudará a llegar a los rincones del cuerpo sin necesidad de acercarnos excesivamente al propio sensor para no golpearlo. Recorreremos los cuatro lados del rectángulo que podemos ver a simple vista y listo, las motas de polvo habrán desaparecido. En el caso de que se trate de una mancha de grasa o algo que no se elimina con un simple soplado, una buena opción será la compra de un líquido y bastoncillo especiales para estas limpiezas, que tendremos que humedecer ligeramente.
+
+4) Colocar la tapa y bajar el espejo: Cuando hayamos terminado de soplar, volveremos a colocar la tapa y bajaremos el espejo. Esto último lo realizará la cámara automáticamente al apagarla (es lo más normal), aunque lo mejor es consultar el manual y comprobar cómo volver a la posición inicial.
+-teoría del color
+Modelos de color
+En su libro Teoría de los colores, el poeta y científico alemán Johann Wolfgang von Goethe propuso un círculo de color simétrico, el cual comprende el establecido por el matemático y físico inglés Isaac Newton y los espectros complementarios. En contraste, el círculo de color de Newton, con siete ángulos de color desiguales y subtendidos, no exponía la simetría y la complementariedad que Goethe consideró como característica esencial del color. Para Newton, solo los colores espectrales podían considerarse como fundamentales. El enfoque más empírico de Goethe le permitió admitir el papel esencial del color magenta, que no es espectral, en un círculo de color. Posteriormente, los estudios de la percepción del color definieron el estándar CIE 1931, el cual es un modelo perceptual que permite representar colores primarios con precisión y convertirlos a cada modelo de color de forma apropiada.
+Teoría de Ostwald
+La teoría del color propuesta por el químico y filósofo alemán Wilhelm Ostwald consta de cuatro sensaciones cromáticas elementales (amarillo, rojo, azul y verde) y dos sensaciones acromáticas intermedias.
+Modelo de color RGB
+La mezcla de los colores primarios de la luz, que son rojo, verde y azul (RGB, iniciales en inglés de los colores primarios), se realiza utilizando el sistema de color aditivo, también conocido como el modelo RGB o el espacio de color RGB. Todos los colores posibles que pueden ser creados por la mezcla de estas tres luces de color son aludidos como el espectro de color de estas luces en concreto. Cuando ningún color luz está presente, se percibe el negro. Los colores primarios de luz tienen aplicación en los monitores de un ordenador, televisores, proyectores de vídeo y todos aquellos sistemas que utilizan combinaciones de materiales que fosforecen en el rojo, verde y azul.
+Se debe tener en cuenta que sólo con unos colores «primarios» ficticios se pueden llegar a conseguir todos los colores posibles. Estos colores primarios son conceptos idealizados utilizados en modelos de color matemáticos que no representan las sensaciones de color reales o incluso los impulsos nerviosos reales o procesos cerebrales. En otras palabras, todos los colores «primarios» perfectos son completamente imaginarios, lo que implica que todos los colores primarios que se utilizan en las mezclas son incompletos o imperfectos.
+
+El círculo cromático
+El círculo cromático suele presentarse como una rueda dividida en doce partes. Los colores primarios se colocan de modo que uno de ellos esté en la porción superior central y los otros dos en la cuarta porción a partir de esta, de modo que si unimos los tres con unas líneas imaginarias formarían un triángulo equilátero con la base horizontal. Entre dos colores primarios se colocan tres tonos secundarios de modo que en la porción central entre ellos correspondería a una mezcla de cantidades iguales de ambos primarios y el color más cercano a cada primario sería la mezcla del secundario central más el primario adyacente.
+
+Los círculos cromáticos actuales utilizados por los artistas se basan en el modelo CMY, si bien los colores primarios utilizados en pintura difieren de las tintas de proceso en imprenta en su intensidad. Los pigmentos utilizados en pintura, tanto en óleo como acrílico y otras técnicas pictóricas suelen ser el azul de ftalocianina (PB15 en notación Color Index) como cian, el magenta de quinacridona (PV19 en notación Color Index) y algún amarillo arilida o bien de cadmio que presente un tono amarillo neutro (existen varios pigmentos válidos o mezclas de ellos utilizables como primarios amarillos). Varias casas poseen juegos de colores primarios recomendados que suelen venderse juntos y reciben nombres especiales en los catálogos, tales como «azul primario» o «rojo primario» junto al «amarillo primario», pese a que ni el azul ni el rojo propiamente dichos son en realidad colores primarios según el modelo CMYK utilizado en la actualidad.
+
+No obstante, como los propios nombres dados por los fabricantes a sus colores primarios evidencian, existe una tradición todavía anclada en el modelo RGB y que ocasionalmente se encuentra todavía en libros y en cursos orientados a aficionados a la pintura. Pero la enseñanza reglada, tanto en escuelas de arte como en la universidad, y los textos de referencia importantes ya han abandonado tal modelo hace décadas. La prueba la tenemos en los colores orientados a la enseñanza artística de diferentes fabricantes, que sin excepción utilizan un modelo de color basado en CMYK, que además de los tres colores primarios CMY incluyen negro y blanco como juego básico para el estudiante.
+
+Modelo de color RGB
+La mezcla de los colores primarios de la luz, que son rojo, verde y azul (RGB, iniciales en inglés de los colores primarios), se realiza utilizando el sistema de color aditivo, también conocido como el modelo RGB o el espacio de color RGB. Todos los colores posibles que pueden ser creados por la mezcla de estas tres luces de color son aludidos como el espectro de color de estas luces en concreto. Cuando ningún color luz está presente, se percibe el negro. Los colores primarios de luz tienen aplicación en los monitores de un ordenador, televisores, proyectores de vídeo y todos aquellos sistemas que utilizan combinaciones de materiales que fosforecen en el rojo, verde y azul.
+
+Se debe tener en cuenta que sólo con unos colores «primarios» ficticios se pueden llegar a conseguir todos los colores posibles. Estos colores primarios son conceptos idealizados utilizados en modelos de color matemáticos que no representan las sensaciones de color reales o incluso los impulsos nerviosos reales o procesos cerebrales. En otras palabras, todos los colores «primarios» perfectos son completamente imaginarios, lo que implica que todos los colores primarios que se utilizan en las mezclas son incompletos o imperfectos.
+
+
+
+
+
+Atributos del color
+Todos los matices o colores que percibimos poseen tres atributos básicos:
+
+Matiz: también llamado por algunos "croma", es el color en sí mismo, es el atributo que nos permite diferenciar a un color de otro, por lo que podemos designar cuando un matiz es verde, violeta o anaranjado.
+Luminosidad ó Valor: es la intensidad lumínica de un color (claridad / oscuridad). Es la mayor o menor cercanía al blanco o al negro de un color determinado. A menudo damos el nombre de rojo claro a aquel matiz de rojo cercano al blanco, o de rojo oscuro cuando el rojo se acerca al negro.
+Saturación: es, básicamente, pureza de un color, la concentración de gris que contiene un color en un momento determinado. Cuanto más alto es el porcentaje de gris presente en un color, menor será la saturación o pureza de éste y por ende se verá como si el color estuviera sucio u opaco; en cambio, cuando un color se nos presenta lo más puro posible (con la menor cantidad de gris presente) mayor será su saturación. En caso de que se mezclen los colores opuestos en el Círculo Cromático se obtienen grises opuestos a la saturación, a lo que se le llama Neutralización.
+El grado en que uno o dos de los tres colores primarios RGB (esta clasificación es referente a los colores básicos en la composición luminosa de una pantalla informática R=Red, G=Green, B=Blue, con los que se componen por medio de adición lumínica, distinta a la clasificación de los colores básicos o primarios de la pintura, en la que se mezclan por adición de pigmentos matéricos o físicos) predominan en un color. A medida que las cantidades de RGB se igualan, el color va perdiendo saturación hasta convertirse en gris o blanco.
+
+Teorías del uso del color
+Las teorías modernas del uso del color determinan que sus propiedades son dos: matiz y luminosidad
+El matiz tiene que ver con el tipo de color: tierra siena tostada, verde, negro titanio, blanco marfil, rosa, etc.
+La luminosidad es la cantidad de luz que cada color tiene y es posible de ser diferenciada en oposición a otros colores, por ejemplo, un amarillo es más claro que un azul o un verde más claro que un marrón.
+La saturación bien entendida tiene que ver con la cantidad de materia que se aplica sobre una superficie, por ende saturar significa colmar una superficie con pigmento. El agregado de gris a los colores como forma de saturar, no hace otra cosa que obtener un nuevo color producto de la mezcla. Puede probarse por experimentación. Por ende un color, inclusive al que se le agregara gris, puede saturar una superficie con mayor o menor efectividad dependiendo de la técnica utilizada y de la calidad de los materiales con los que se ha fabricado. Por ejemplo, la técnica de acuarela tiene menor capacidad para saturar que la del acrílico.
+
+Armonías de color
+Los colores armónicos son aquellos que funcionan bien juntos, es decir, que producen un esquema de color sensible al mismo sentido (la armonía nace de la percepción de los sentidos y, a la vez, esta armonía retroalimenta al sentido, haciéndolo lograr el máximo equilibrio que es hacer sentir al sentido). El círculo cromático es una herramienta útil para determinar armonías de color. Los colores complementarios son aquellos que se contraponen en dicho círculo y que producen un fuerte contraste. Así, por ejemplo, en el modelo RGB el verde es complementario del rojo, mientras que en el modelo CMY el verde es el complementario del magenta.
+
+Espacios de colores
+Un espacio de color define un modelo de composición del color. Por lo general un espacio de color lo define una base de N vectores (por ejemplo, el espacio RGB lo forman 3 vectores: rojo, verde y azul), cuya combinación lineal genera todo el espacio de color. Los espacios de color más generales intentan englobar la mayor cantidad posible de los colores visibles por el ojo humano, aunque existen espacios de color que intentan aislar tan solo un subconjunto de ellos.
+
+Existen espacios de color de:
+
+-Una dimensión: escala de grises, escala Jet, etc.
+-Dos dimensiones: sub-espacio rg, sub-espacio xy, etc.
+-Tres dimensiones: espacio RGB, HSV, YCbCr, YUV, YI'Q', etc.
+-Cuatro dimensiones: espacio CMYK.
+De los cuales, los espacios de color de tres dimensiones son los más extendidos y los más utilizados. Entonces, un color se especifica usando tres coordenadas, o atributos, que representan su posición dentro de un espacio de color específico. Estas coordenadas no nos dicen cuál es el color, sino que muestran dónde se encuentra un color dentro de un espacio de color en particular.
+
+Espacio RGB
+RGB es conocido como un espacio de color aditivo (colores primarios) porque cuando la luz de dos diferentes frecuencias viaja junta, desde el punto de vista del observador, estos colores son sumados para crear nuevos tipos de colores. Los colores rojo, verde y azul fueron escogidos porque cada uno corresponde aproximadamente con uno de los tres tipos de conos sensitivos al color en el ojo humano (65 % sensibles al rojo, 33 % sensibles al verde y 2 % sensibles al azul). Con la combinación apropiada de rojo, verde y azul se pueden reproducir muchos de los colores que pueden percibir los humanos. Por ejemplo, rojo puro y verde claro producen amarillo, rojo y azul producen magenta, verde y azul combinados crean cian y los tres juntos mezclados a máxima intensidad, crean el blanco intenso.
+Existe también el espacio derivado RGBA, que añade el canal alfa (de transparencia) al espacio RGB original.
+
+Espacio CMYK
+Los colores que se ven son la parte de luz que no es absorbida. En CMY, magenta más amarillo producen rojo, magenta más cian producen azul, cian más amarillo generan verde y la combinación de cian, magenta y amarillo forman negro. El negro generado por la mezcla de colores primarios sustractivos no es tan denso como el color negro puro (uno que absorbe todo el espectro visible). Es por esto que al CMY original se ha añadido un canal clave (key), que normalmente es el canal negro (black), para formar el espacio CMYK o CMYB. Actualmente las impresoras de cuatro colores utilizan un cartucho negro además de los colores primarios de este espacio, lo cual genera un mejor contraste. Sin embargo el color que una persona ve en una pantalla de computador difiere del mismo color en una impresora, debido a que los modelos RGB y CMY son distintos. El color en RGB está hecho por la reflexión o emisión de luz, mientras que el CMY, mediante la absorción de ésta.
+
+Espacio YIQ
+Fue una recodificación de color realizada para la norma de televisión cromática estadounidense NTSC, que debía ser compatible con la televisión en blanco y negro. Los nombres de los componentes de este modelo son Y por luminancia (luminance), I fase (in-phase) y Q cuadratura (quadrature). La primera es la señal monocromática de la televisión en blanco y negro y las dos últimas generan el tinte y saturación del color. Los parámetros I y Q son nombrados en relación con el método de modulación utilizado para codificar la señal portadora. Los valores de las señales RGB son sumados para producir una única señal Y’ que representa la iluminación o brillo general de un punto en particular. La señal I es creada al restar el Y' de la señal azul de los valores RGB originales y luego el Q se realiza restando la señal Y' del rojo.
+
+Espacio HSV
+Es un espacio cilíndrico, pero normalmente asociado a un cono o cono hexagonal, debido a que es un subconjunto visible del espacio original con valores válidos de RGB.
+-Matiz (Hue): se refiere a la frecuencia dominante del color dentro del espectro visible. Es la percepción de un tipo de color, normalmente la que uno distingue en un arcoíris, es decir, es la sensación humana de acuerdo a la cual un área parece similar a otra o cuando existe un tipo de longitud de onda dominante. Incrementa su valor mientras nos movemos de forma antihoraria en el cono, con el rojo en el ángulo 0.
+Saturación (Saturation): se refiere a la cantidad del color o a la «pureza» de éste. Va de un color «claro» a un color más vivo (azul cielo – azul oscuro). También se puede considerar como la mezcla de un color con blanco o gris.
+Valor (Value): es la intensidad de luz de un color. Dicho de otra manera, es la cantidad de blanco o de negro que posee un color.
+
+Modelo de color RYB
+En el modelo de color RYB, el rojo, el amarillo y el azul se consideran colores primarios, y en teoría, el resto de colores puros (color materia) puede ser creados mezclando pintura roja, amarilla y azul. A pesar de su obsolescencia e imprecisión, mucha gente aprende algo sobre este modelo en los estudios de educación primaria, mezclando pintura o lápices de colores con estos colores primarios.
+
+El modelo RYB es aún utilizado en general en conceptos de arte y pintura tradicionales, pero ha sido totalmente dejado de lado en la mezcla industrial de pigmentos de pintura. Aun siendo usado como guía para la mezcla de pigmentos, el modelo RYB no representa con precisión los colores que resultan de mezclar los tres colores RYB primarios, puesto que el azul y el rojo son tonalidades verdaderamente secundarias. A pesar de la imprecisión de este modelo –su corrección es el modelo CMYK–, se sigue utilizando en las artes visuales, el diseño gráfico y otras disciplinas afines, por tradición del modelo original de Goethe de 1810.
+
+Percepción del color
+En la retina del ojo existen millones de células especializadas en detectar las longitudes de onda procedentes de nuestro entorno. Estas células fotorreceptoras, conos y los bastones, recogen parte del espectro de la luz y, gracias al efecto fotoeléctrico, lo transforman en impulsos eléctricos, que son enviados al cerebro a través de los nervios ópticos, para crear la sensación del color.
+
+Existen grupos de conos especializados en detectar y procesar un color determinado, siendo diferente el total de ellos dedicados a un color y a otro. Por ejemplo, existen más células especializadas en trabajar con las longitudes de onda correspondientes al rojo que a ningún otro color, por lo que cuando el entorno en que nos encontramos nos envía demasiado rojo se produce una saturación de información en el cerebro de este color.
+
+Cuando el sistema de conos y bastones de una persona no es el correcto se pueden producir una serie de irregularidades en la apreciación del color, al igual que cuando las partes del cerebro encargadas de procesar estos datos están dañadas. Esta es la explicación de fenómenos como el daltonismo. Una persona daltónica no aprecia las gamas de colores en su justa medida, confundiendo los rojos con los verdes.
+
+Debido a que el proceso de identificación de colores depende del cerebro y del sistema ocular de cada persona en concreto, podemos medir con toda exactitud el espectro de un color determinado, pero el concepto del color producido es totalmente subjetivo, dependiendo de la persona en sí. Dos personas diferentes pueden interpretar un color dado de forma diferente, y puede haber tantas interpretaciones de un color como personas hay.
+El mecanismo de mezcla y producción de colores producido por la reflexión de la luz sobre un cuerpo no es el mismo al de la obtención de colores por mezcla directa de rayos de luz.
+
+-movimientos de cámara: 
+1. Paneo. Mover la cámara horizontalmente ya sea de izquierda a derecha o de derecha a izquierda. Cuando se realiza un movimiento de izquierda a derecha se le denomina paneo hacia la derecha. Asimismo, cuando se realiza un movimiento de derecha a izquierda se le denomina paneo hacia la izquierda.
+2. Tilt. Mover la cámara verticalmente ya sea de abajo hacia arriba o de arriba hacia abajo. Cuando se realiza un movimiento de abajo hacia arriba se le denomina “TILT UP”, mientras que cuando se realiza un movimiento de arriba hacia abajo se le denomina “TILT DOWN”.
+3. Travel. Moverse junto con la cámara paralelamente a la acción. Esta acción puede hacerse de izquierda a derecha denominándose “TRAVEL IZQUIERDO” o de derecha a izquierda denominándose “TRAVEL DERECHO”.
+4. Dolly. Moverse junto con la cámara hacia delante o hacia atrás. Cuando se mueve uno hacia delante se le denomina “DOLLY IN” y cuando se mueve uno hacia atrás se denomina “DOLLY OUT”.
+5. Crane. Subir o bajar de nivel de altura junto con la cámara. Cuando subimos con la cámara se le denomina “CRANE UP” y cuando bajamos se le denomina “CRANE DOWN”
+
+-Tipos De Planos
+
+Se refiere al tamaño del objeto en la imagen que se va a grabar. Los principales planos usados son:
+
+1. Plano General (Wide Shot). Es cuando se muestra un encuadre abierto que enseña además del personaje principal que se esta tomando, los elementos a sus alrededor.
+2. Plano General Medio (Full Shot). Se muestra al personaje desde los pies hasta la cabeza mas todo lo que se perciba a su alrededor con ese encuadre.
+3. Plano Americano. Termino utilizado principalmente en las películas americanas de vaqueros donde se muestra al personaje desde la rodilla que es a donde les llegaba la pistola, hasta arriba de la cabeza.
+4. Plano Medio ( Médium Shot). Es cuando se toma a un personaje de la cintura hasta arriba de la cabeza.
+5. Primer Plano Medio ( Médium / Close Up). Abarca de la altura del hombro hasta arriba de la cabeza.
+6. Primer Plano ( Close Up). Es a partir de donde termina el hombro hasta arriba de la cabeza.
+7. Primerísimo Plano ( Extreme Close Up). Abarca desde arriba de la barba hasta la frente.
+
+
+Enfoque
+
+En las cámaras de video se puede enfocar de manera automática o manual. El enfoque automático es el más fácil porque por lo general mantiene enfocado todo lo que se encuentra en el centro del lente. Muchas cámaras tienen un pequeño circulo o cuadrado en el centro del lente que es la referencia para lo que el lente mantendrá enfocado.
+
+Para grabaciones donde queremos tener control de la profundidad de campo (explicada adelante) de lo que grabamos, sugerimos manejar la cámara de modo manual tanto para el iris, exposición y enfoque.
+
+La manera correcta de enfocar en modo manual se consigue haciendo zoom-in completo en lo que queremos grabar, empezar a enfocar manualmente hasta tener una imagen nítida. Se recomienda que cuando se crea tener la imagen enfocada pasar un poco el foco y luego reenfocar para asegurarse que el enfoque fue correcto.
+
+Composición De la Imagen
+
+Uno de los puntos mas importantes al grabar es aprender a componer correctamente la imagen de lo que se quiere grabar. Dependiendo de lo que se va a grabar hay ciertos principios que hay que seguir.
+
+Definición de planos. Cuando vamos a grabar podemos tener la acción en:
+
+• Primer plano. Es lo mas distintivo en nuestra composición y mas cercano a la cámara.
+• Segundo Plano. Son los elemento que se posicionan atrás de los elementos que están en primer plano.
+• De fondo. Son los elementos que están atrás de los elementos que están en segundo plano.
+
+Al ver un video en una televisión, las tomas que se distinguen mas son las que están tomadas en primer plano. Las tomas a larga distancia no se alcanzan a distinguir bien en una pantalla de televisión.
+
+Reglas importantes
+
+• Ojo humano se mueve de izquierda a derecha
+• Importancia de dejar espacio aire. El termino aire se refiere a dejar un poco de espacio en lo que se esta grabando. Cuando se esta grabando a una persona caminando hay que dejar alrededor de 1/3 de espacio libre hacia donde va caminando. Si la toma un plano medio o primer plano hay que dejar un poco de espacio hacia la dirección hacia donde esta viendo exceptuando cuando ve hacia cámara. Asimismo hay que dejar un poco de espacio arriba de la cabeza.
+• Crear sensación de profundidad. Esto se logra cuando se juega con el posicionamiento de los elementos que se van a grabar teniendo algunos en primer plano, otros en segundo plano y finalmente algunos elementos de fondo.
+
+Ángulos
+
+Dependiendo del ángulo con el que se compone una imagen se da una distinta comunicación visual. Cuando se graba uno tiene la decisión de hacia donde queremos que nuestra audiencia concentre su atención. Es importante a la hora de componer una imagen de estar consciente de los elementos visuales que distraen a la vista.
+
+A la hora de hacer una grabación es importante tener diversas opciones de ángulos, así como encuadres para que a la hora de editar el proyecto se le dé dinamismo al mismo. Para que un cambio de ángulo funcione debe ser mínimo de 30º acompañado de un cambio de plano para que se note en la edición.
+
+• Picado. Es cuando se hace una toma de arriba del personaje hacia abajo. Este tipo de toma nos da una sensación de disminución de la altura y debilidad del personaje.
+• Contrapicado. Es cuando se hace una toma de abajo del personaje hacia arriba. Este tipo de toma nos da una sensación de aumento de altura y fortaleza del personaje.
+• Holandés. Es cuando la cámara se inclina ya sea hacia la izquierda o derecha entre un 20-40o para dar una sensación de modernidad.
+• Over the shoulder. Es cuando tenemos a dos personajes hablando entre ellos y se utiliza el hombro de uno de los personajes en primer plano y otro personaje en segundo plano.
+
+TIP. Para hacer tomas en movimiento como dolly, travel o arco se puede utilizar una silla de ruedas, un carrito de súper, un carrito de maletas de aeropuerto o una patineta.
+
+Profundidad de campo
+
+Definición . Es la región, expresada en términos de la distancia cercana y lejana donde los objetos se encuentran enfocados en un encuadre.
+
+La profundidad de campo va a depender de tres elementos:
+
+• Apertura del iris. Mientras menor sea la F, mayor será la apertura del iris y menor la profundidad de campo. Mientras mayor sea la F, menor será la apertura del íris y mayor la profundidad de campo.
+• Longitud de enfoque. Se refiere al cambio de distancia focal en la cámara. La mejor manera de distinguir este es haciendo pruebas manteniendo un mismo encuadre en cámara pero jugando con diferentes lentes (o distancias de zoom en la cámara)
+• Distancia. Distancia del objeto desde la cámara de video.
+
+Mientras mas cerca esté el objeto de la lente, menor será la profundidad de campo en cualquier abertura o longitud de enfoque. Es importante mencionar que para poder jugar con la profundidad de campo es importante trabajar lo más que se pueda con la cámara en manual para poder manipular los diferentes parámetros.
+
+
+
+
+Duración de tomas
+
+La duración de una toma es un aspecto muy subjetivo y que se va a prendiendo con la practica y conforme uno va entendiendo los diferentes ritmos que se le puede dar a una escena. De cualquier manera a la hora de grabar es muy importante siempre grabar más material del que se va a necesitar y a la hora de la edición darle el ritmo apropiado.
+
+
+
+Continuidad
+
+En el mundo profesional para mantener los costos mas controlados, las películas nunca se filman en orden. A partir de un guión aprobado se hace un desglose del mismo donde se separan las escenas por locaciones y si la escena es de día o de noche. Con este desglose se realiza una calendarización de locaciones. Es por esta razón que existe una persona en el set llamada “Continuista”. Esta persona esta encargada de llevar una relación de todos los elementos del set y de los personajes para que se vean iguales de una toma a otra dentro de una escena. Las continuistas se apoyan de cámaras instantáneas para tomar fotos de las locaciones y los personajes y con esto poder igualarlas entre toma y toma.
+
+La continuidad en el set significa que la utilería aparezca en el mismo lugar cuando cambiamos de toma, mientras que en los personajes se debe cuidar la posición, vestimenta, peinado, maquillaje, accesorios, señas particulares (cortadas, lunares, etc.), expresiones. Finalmente en una locación hay que cuidar que las condiciones climatológicas sean parecidas.
+
+Traspaso de Línea
+
+En cualquier toma que se realiza cuando tenemos dos personas hablando entre ellas hay que trazar una línea imaginaria que va de uno de los personajes al otro. Al trazarla solo podremos grabar de uno de los lados de esa línea. Si la cruzamos romperemos el eje de continuidad de acción a menos de que tengamos un plano neutro entre los cortes de cámara.
+
+¿Cómo se lee una fotografía? El análisis de la imagen
+ “Cuando un texto verbal describe una obra de arte visual, la tradición clásica habla de écfrasis.”
+El mundo está lleno de imágenes. Miles de imágenes pasan a lo largo del día por delante de nuestros ojos. Algunas nos llaman la atención, otras no. Es imposible mirar y analizar cada imagen. Como fotógrafos es muy importante darnos el tiempo de mirar con atención, leer y analizar las fotografías y no solo “consumirlas”. Es fundamental entender el proceso fotográfico y hacer un análisis de la imagen. Poder valorar una fotografía es muy útil para el proceso del aprendizaje. Sin duda el análisis visual de la imagen nos ayudará a ser mejores fotógrafos.
+
+
+
+
+¿Qué significa leer una imagen?
+
+Leer una imagen significa observarla con detenimiento y analizar los objetos que la componen. Es fundamental preguntarse qué muestra una imagen y cómo lo muestra. La siguiente pregunta que debemos hacer es: ¿Qué intención tiene el fotógrafo? Tener eso en cuenta es muy importante para valorar el resultado.
+
+La interpretación de una imagen se puede llevar a una serie de distintos niveles analíticos. Estos niveles se componen de dos partes: lo que denotan (qué y cómo lo muestra) y lo que connotan (por qué lo muestra y qué significa como lo muestra). Es decir, se hace un análisis de lo que se ve (perceptivo) y después un análisis del significado que podrían tener los elementos (comprensivo). 
+
+El análisis de la imagen
+puede empezarse en los siguientes niveles perceptivos: 
+Nivel compositivo: Para analizar la composición es útil pensar en el encuadre, la perspectiva, la proporción y la distribución de pesos. ¿Desde dónde ha sido realizada la fotografía? ¿Está tomada a la altura de los ojos o desde otras posiciones (ángulo frontal, picado, cenital, contrapicado, nadir)?
+
+Nivel técnico: Debemos considerar los aspectos técnicos de la cámara: enfoque, apertura de diafragma, velocidad de obturación, profundidad de campo y balance de blancos.
+
+Nivel narrativo: ¿Qué es lo que cuenta la fotografía? ¿Cuáles son los elementos narrativos más importantes que componen la historia? Hay que analizar la historia a nivel expresivo.
+
+Les propongo algunas preguntas para profundizar en la lectura fotográfica.
+
+¿Cuál era el propósito de la fotografía?
+¿Es una fotografía espontánea o planificada ?
+¿Cuáles son las condiciones en las que se tomó la fotografía?
+¿Cuál era la finalidad del fotógrafo?
+¿Qué te ha transmitido la fotografía?
+¿Qué historia crees que cuenta?
+Si contestamos todas esas preguntas, tenemos toda la información para poder apreciar la fotografía. Debemos considerar que una fotografía, igual que una obra de arte, no se puede valorar objectivamente porque se mezclan factores emocionales y técnicos.
+Las habilidades que se desarrollan gracias a la lectura de imágenes nos permiten convertirnos en espectadores experimentados. El análisis visual de imágenes es un ejercicio que todo fotógrafo debe practicar.
+
+-trabajo final: 
+Producto final de las fotos de cada integrante
+
